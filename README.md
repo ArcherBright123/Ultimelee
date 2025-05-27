@@ -1,5 +1,5 @@
 # "Ultimelee"
-The "Ultimate" Melee Modpack, including a massive amount of shared and original mods. 
+The "Ultimate" Melee Modpack, including a massive amount of shared and original mods, skins, stages and music. 
 A new Melee Rom hack, Coming Pretty soon...
 
 
