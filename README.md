@@ -9,10 +9,10 @@ A new Melee Rom hack, Coming Pretty soon...
 Currently Includes:
 
 + Over 40 Custom Stages
-+ Over 20 New characters
++ Over 20 New characters (Echo Fighters and Custom characters)
 + Over 50 new Character skins
 + Over 70 Pieces of new Music
-+ Snake!
++ Snake (NEW Custom Character)!
 
 And this is only so far!
 
