@@ -12,9 +12,10 @@ Currently Includes:
 + Over 20 New characters
 + Over 50 new Character skins
 + Over 70 Pieces of new Music
++ Snake!
 
 And this is only so far!
 
 Will include Exclusive Custom stages and Exclusive Mods.
 Thank you to everybody in the Melee Hacking community, Including Team Akaneia, Barry Barrows, Shadow Mewtwo, Autism Guy, GL Erika and many many more for these mods and characters.
-Includes Characters from Akaneia 0.92, Turbo DX, Melee XV, And a few custom characters online.
+Includes Characters from Akaneia 0.92, Turbo DX, And a few custom characters online.
